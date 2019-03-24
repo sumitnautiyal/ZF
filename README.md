@@ -1,0 +1,1 @@
+I will go through some basics of Zend Framework to make beginners familiarize with it and ease the learning curve which is often considered quite steep.
